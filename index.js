@@ -82,5 +82,9 @@ function chama() {
     // document.write(info.getcpf());
     document.write(conta + "<br><br>");
     document.write(agencia);
+    if(conta === this.conta && agencia === this.agencia){
+
+    }
 }
 chama();
+mufdsfsf
